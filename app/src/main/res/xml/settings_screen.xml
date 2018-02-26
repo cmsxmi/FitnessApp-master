@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="General" />
+    <Preference
+        android:title="Reset Personal Tracker"
+        android:key="reset"
+        android:summary="resert your progress tracker"/>
+    <PreferenceCategory
+        android:title="Notifications" />
+
+    <SwitchPreference
+        android:title="Reminders"
+        android:key="Notifications"
+        android:summary="enable notifications"/>
+
+
+    <PreferenceCategory
+        android:title="About"/>
+
+    <Preference
+        android:key="about"
+        android:summary="We are a team of like minded people, specilsed in development of android apps. Glad to help our customers in anyway."
+       />
+    <Preference
+        android:title="Privacy Policy"
+        android:key="Privacy"/>
+    <EditTextPreference
+        android:title="Send Feedback"
+        android:key="feedback"/>
+    <Preference
+        android:title="Terms and Conditions"
+        android:key="Terms" />
+
+</PreferenceScreen>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24076944965",
+    "firebase_url": "https://teamproject-83068.firebaseio.com",
+    "project_id": "teamproject-83068",
+    "storage_bucket": "teamproject-83068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24076944965:android:394b9994cb81110e",
+        "android_client_info": {
+          "package_name": "com.example.sepiol.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24076944965-o16nbkkgrneag0ripief2irlng6n70cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sepiol.fitnessapp",
+            "certificate_hash": "86bf9db028c56ddfa25c13a68f60aa7e7bef2321"
+          }
+        },
+        {
+          "client_id": "24076944965-hpj144u1amupkp2o1hmsj5h4ia4fios1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCaYaN8AVeE19K4bLxjIfqYhgdPP4eTHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24076944965-hpj144u1amupkp2o1hmsj5h4ia4fios1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

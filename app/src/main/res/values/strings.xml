@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Gym Buddy</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_excercise_category_home">ExcerciseCategoryHome</string>
+
+    <string-array name="chestExercises">
+        <item>Barbell Bench Press</item>
+        <item>Barbell Incline Bench Press</item>
+        <item>Seated Flyes on Machine</item>
+        <item>Seated Machine Chest Press</item>
+        <item>Incline Dumbbell Press</item>
+    </string-array>
+
+    <string-array name="backExercises">
+        <item>Deadlift</item>
+        <item>Barbell Row</item>
+        <item>Wide Grip Pull Up</item>
+        <item>Standing T Bar Row</item>
+        <item>Seated Cable Row Machine</item>
+    </string-array>
+
+    <string-array name="absExercises">
+        <item>Bicycle Kicks</item>
+        <item>Stability Ball</item>
+        <item>Mermaid Stretch</item>
+        <item>Side Plank Rotation with Leg Lift</item>
+    </string-array>
+
+    <string-array name="legExercises">
+        <item>Leg Press</item>
+        <item>Leg Extension Machine</item>
+        <item>Barbell Squat</item>
+        <item>Lying Leg Curls</item>
+        <item>Calf Machine</item>
+    </string-array>
+
+    <string-array name="armExercises">
+        <item>Standing Biceps Curl with Dumbbells</item>
+        <item>Hammer Curls with Dumbbells</item>
+        <item>Triceps Kickback with Dumbbells</item>
+        <item>Lying Triceps Extension with Dumbbells</item>
+        <item>Bicep Machine</item>
+    </string-array>
+
+    <string-array name="shoulderExercises">
+        <item>Seated Dumbbell Press</item>
+        <item>Seated Shoulder Press Machine</item>
+        <item>Seated Side Lateral Dumbbell Raise</item>
+        <item>Plate Front Raise</item>
+    </string-array>
+    <string name="title_activity_recipes">RecipesActivity</string>
+
+    <string-array name="recipenames">
+        <item>Sun Butter Toast</item>
+        <item>Berry Yogurt Smoothie</item>
+        <item>Savory Oatmeal</item>
+        <item>Honey Lime Quina</item>
+        <item>Avacado Toast</item>
+        <item>Zucchini Bread Oatmeal</item>
+    </string-array>
+
+    <string-array name="recipeDescriptions">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Savory Oatmeal with Cheddar and Fried Egg</item>
+        <item>Honey Lime Quina Fruit Salad</item>
+        <item>Skinny Fried Egg Avacado Toast</item>
+        <item>Description 6</item>
+    </string-array>
+    <string name="title_activity_workout_screen">WorkoutScreen</string>
+    <string name="title_activity_workout_view">WorkoutActivityView</string>
+    <string name="title_activity_diet_web_view">DietWebView</string>
+    <string name="title_activity_exercise_categ_home">ExerciseCategHome</string>
+    <string name="title_activity_workout_plan_home">WorkoutPlanHome</string>
+    <string name="title_activity_healthy_eating">HealthyEatingActivity</string>
+    <string name="title_activity_main">DietActivity</string>
+    <string name="title_activity_diet_screen">DietScreen</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+</resources>
